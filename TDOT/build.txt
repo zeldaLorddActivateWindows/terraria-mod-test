@@ -1,0 +1,3 @@
+displayName = Dismantling of Terraria
+author = pixelated_face
+version = 0.1

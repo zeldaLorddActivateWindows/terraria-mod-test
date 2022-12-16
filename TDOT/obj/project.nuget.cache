@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UqFbvgfW4hAbKturq6MUShCyBxDZ67qxztcooW+38yZ60fMXTgFSuYbgcyR+semqQ3Si5OtYn6+QvkYM/0gfpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laphouse\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TDOT\\TDOT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laphouse\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
